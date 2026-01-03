@@ -16,3 +16,5 @@ This project is built upon the hard work of the original developers.
 ## ⚖️ License
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 In accordance with the license, this modified version remains free and open-source.
+
+This project is not affiliated with or endorsed by the original Nova Client developers.
