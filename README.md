@@ -1,6 +1,6 @@
-# 🚀 Brix Client
+# 🚀 Sharpen Client
 
-Brix Client is a professional modification of the original **Nova Client**, redesigned for a better user experience and a fresh look.
+Sharpen Client is a professional modification of the original **Nova Client**, redesigned for a better user experience and a fresh look.
 
 ## ✨ Features & Changes
 * **Rebranding:** Successfully transitioned from Nova Client to **Brix Client**.
